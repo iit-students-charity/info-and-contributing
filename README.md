@@ -18,13 +18,23 @@
 
 Теги должны быть с префиксом "isc-", потому что это работает как хэштег, и без префикса тег lab-work найдёт рандомные лабы по всему гитхабу.
 
-Пиксрелейтед:
+**Пиксрелейтед:**
 
-(тут типа скрины, окда?)
+* **Теги**
+
+![topics](https://github.com/iit-students-charity/info-and-contributing/raw/master/topics.png "Теги")
+
+* **Поиск по тегам**
+
+![topics result](https://github.com/iit-students-charity/info-and-contributing/raw/master/topics_result.png "Поиск по тегам")
+
+* **Поиск по названию и описанию**
+
+![search](https://github.com/iit-students-charity/info-and-contributing/raw/master/search.png "Поиск по названию/описанию")
 
 ## Contributing
 
-Чтобы предложить сюда свой репозиторий, можно открыть issue или pull request в этот репозиторий, где будет описано что собсна предлагается. Если создание issue/PR вызовет проблемы то ~~**суецыд**~~ можно загуглить :)
+Чтобы предложить сюда свой репозиторий, можно открыть [issue](https://github.com/iit-students-charity/info-and-contributing/issues/new "Открыть issue") или [pull request](https://github.com/iit-students-charity/info-and-contributing/compare "Открыть pull request") в [этот](https://github.com/iit-students-charity/info-and-contributing "ЭТОТ репозиторий :)") репозиторий, где будет описано что собсна предлагается. Если создание issue/PR вызовет проблемы то ~~**суецыд**~~ можно загуглить :)
 
 ## P.S.
 
